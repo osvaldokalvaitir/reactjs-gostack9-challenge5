@@ -86,7 +86,7 @@ Esta é a primeira tela, onde encontram-se todos os repositórios do GitHub que 
 ### Repositório
 
 ![Repository](/assets/repository.png)
-Nesta tela, encontram-se todas as issues referentes ao repositório selecionado pelo usuário, podendo abrir a página da issue ou também voltar para a página inicial.
+Nesta tela, encontram-se todas as issues referentes ao repositório selecionado pelo usuário, podendo escolher somente as issues abertas ou fechadas, é possível também abrir a página da issue ou voltar para a página inicial.
 
 ## Desenvolvimento
 
