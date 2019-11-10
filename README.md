@@ -75,6 +75,8 @@ Adicione apenas um botão de próxima página e página anteior. O botão de pá
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
+  
+  - [APIs](#apis)
 
 ## Capturas de Tela
 
