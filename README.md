@@ -75,19 +75,19 @@ Adicione apenas um botão de próxima página e página anteior. O botão de pá
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
-  
+
   - [APIs](#apis)
 
 ## Capturas de Tela
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a primeira tela, onde encontram-se todos os repositórios do GitHub que o usuário pesquisar na caixa de texto.
 
 ### Repositório
 
-![Repository](/assets/repository.png)
+![Repository](/.github/assets/repository.png)
 Nesta tela, encontram-se todas as issues referentes ao repositório selecionado pelo usuário, podendo escolher somente as issues abertas ou fechadas, é possível também abrir a página da issue ou voltar para a página inicial.
 
 ## Desenvolvimento
